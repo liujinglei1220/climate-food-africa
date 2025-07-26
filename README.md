@@ -44,4 +44,4 @@ All datasets used in this study are publicly available and are described in deta
 
 ## Citation
 
-Liu et al. (under review). Research on the Impact of Climate Change on Food Security in Africa. *Scientific Reports*. DOI: To be added upon acceptance.
+Liu et al. (under review). Research on the Impact of Climate Change on Food Security in Africa. *Scientific Reports*. Code repository. Zenodo. https://doi.org/10.5281/zenodo.16439831
